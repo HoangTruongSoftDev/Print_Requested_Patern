@@ -9,6 +9,7 @@ The top pattern:
      *
      
 The down pattern
+
     *
     **
     ***
